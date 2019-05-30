@@ -1,0 +1,16 @@
+{
+    "name": "albertomario/mobilpay",
+    "description": "Mobilpay PHP package prepared for Composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alberto Burlacu",
+            "email": "contact@alberto.ro"
+        }
+    ],
+    "require": {},
+	"autoload": {
+		"psr-4": {"Mobilpay\\": "src/"}
+	},
+}
